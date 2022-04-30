@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sim8hu\\Desktop\\Code\\cSharp\\Console\\Programmering\\Oevelse7\\Oevelse7\\Oevelse7\\Oevelse7.csproj": {}
+    "C:\\Users\\sim8hu\\Desktop\\Code\\cSharp\\Console\\Programmering\\Oevelse7\\Oevelse7\\Oevelse7.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sim8hu\\Desktop\\Code\\cSharp\\Console\\Programmering\\Oevelse7\\Oevelse7\\Oevelse7\\Oevelse7.csproj": {
+    "C:\\Users\\sim8hu\\Desktop\\Code\\cSharp\\Console\\Programmering\\Oevelse7\\Oevelse7\\Oevelse7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sim8hu\\Desktop\\Code\\cSharp\\Console\\Programmering\\Oevelse7\\Oevelse7\\Oevelse7\\Oevelse7.csproj",
+        "projectUniqueName": "C:\\Users\\sim8hu\\Desktop\\Code\\cSharp\\Console\\Programmering\\Oevelse7\\Oevelse7\\Oevelse7.csproj",
         "projectName": "Oevelse7",
-        "projectPath": "C:\\Users\\sim8hu\\Desktop\\Code\\cSharp\\Console\\Programmering\\Oevelse7\\Oevelse7\\Oevelse7\\Oevelse7.csproj",
+        "projectPath": "C:\\Users\\sim8hu\\Desktop\\Code\\cSharp\\Console\\Programmering\\Oevelse7\\Oevelse7\\Oevelse7.csproj",
         "packagesPath": "C:\\Users\\sim8hu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sim8hu\\Desktop\\Code\\cSharp\\Console\\Programmering\\Oevelse7\\Oevelse7\\Oevelse7\\obj\\",
+        "outputPath": "C:\\Users\\sim8hu\\Desktop\\Code\\cSharp\\Console\\Programmering\\Oevelse7\\Oevelse7\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sim8hu\\AppData\\Roaming\\NuGet\\NuGet.Config",
