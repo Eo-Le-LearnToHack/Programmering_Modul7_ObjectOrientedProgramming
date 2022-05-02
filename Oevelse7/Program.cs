@@ -158,6 +158,8 @@ Se den vejledende løsning til 7.8 her.
 https://cphbusiness.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6cafa5e0-6e61-463c-b988-ade5009f6509
 */
 
+//Løsning er i klassen "Lysregulering"
+
 
 
 /*Øvelse 7.9
@@ -169,6 +171,8 @@ Se den vejledende løsning til 7.9 her.
 https://cphbusiness.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1ef06aaa-ba67-4bfb-9c13-ade5009f5a28
 */
 
+//Løsning er i klassen "By"
+
 
 
 /*Øvelse 7.10
@@ -179,3 +183,17 @@ Lav en anden klasse, Vejr, som har en metode SamletNedbør.Den tager to instanse
 Se den vejledende løsning til 7.10 her.
 https://cphbusiness.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c9d8e1b6-52d9-4bfe-bff5-ade5009f59f4
 */
+
+//using Oevelse7;
+//using System;
+
+//Regn regn1 = new();
+//Regn regn2 = new();
+//Vejr vejr = new();
+
+//regn1.Dag = "Mandag";
+//regn1.Nedbør = 33;
+//regn2.Dag = "Tirsdag";
+//regn2.Nedbør = 45;
+
+//Console.WriteLine($"Total mængde regnbør er {vejr.SamletNedbør(regn1, regn2)} mm");
